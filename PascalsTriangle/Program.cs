@@ -51,6 +51,7 @@ namespace PascalsTriangle
                 Console.WriteLine("");
 
                 lastRow = currentRow;
+
             }
         }
 
